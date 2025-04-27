@@ -1,7 +1,7 @@
 # RobloxAssetDeliveryProxy
 An AssetDelivery proxy for MeshVox and other things, because Roblox now requires cookie authentication and I don't want to send my cookie to roproxy
 
-Head to release, download, and simply run the executable.
+Head to the latest release, download the zip, extract, and then simply run the executable(Server.exe).
 The program should automatically retrieve your cookie and route your request to roblox's assetdelivery
 
 On roblox, this should look like this
