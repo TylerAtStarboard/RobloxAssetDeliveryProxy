@@ -1,6 +1,8 @@
 # RobloxAssetDeliveryProxy
 An AssetDelivery proxy for MeshVox and other things, because Roblox now requires cookie authentication and I don't want to send my cookie to roproxy
 
+# How To Install
+
 Head to the latest release
 
 https://github.com/TylerAtStarboard/RobloxAssetDeliveryProxy/releases/latest
