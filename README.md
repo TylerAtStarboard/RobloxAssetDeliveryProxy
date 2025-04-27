@@ -3,7 +3,7 @@ An AssetDelivery proxy for MeshVox and other things, because Roblox now requires
 
 Head to the latest release
 
-https://github.com/TylerAtStarboard/RobloxAssetDeliveryProxy/releases/tag/V1.0
+https://github.com/TylerAtStarboard/RobloxAssetDeliveryProxy/releases/latest
 
 Download the zip, extract, and then simply run the executable(Server.exe).
 The program should automatically retrieve your cookie and route your request to roblox's assetdelivery
