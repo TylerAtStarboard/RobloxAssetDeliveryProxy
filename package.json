@@ -1,0 +1,16 @@
+{
+  "name": "assetdeliveryproxy",
+  "version": "1.0.0",
+  "description": "A proxy for robloxs assetdelivery",
+  "main": "Server.js",
+  "scripts": {
+      "start": "node Server.js",
+      "build-exe": "pkg Server.js --targets node16-win-x64 --output Server.exe"
+  },
+  "dependencies": {
+      
+  },
+  "devDependencies": {
+      "pkg": "^5.8.1"
+  }
+}
